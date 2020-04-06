@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1576947337 source:c:\users\mohamed\desktop\the programming project\dots and boxes game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
