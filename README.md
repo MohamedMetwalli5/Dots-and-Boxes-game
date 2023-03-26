@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-C%20-red.svg)
-![License](https://img.shields.io/badge/license-Apache_2.0-red.svg)
+![License](https://img.shields.io/badge/license-Apache_2.0-orange.svg)
 
 # Dots&Boxes-game
 ## About
