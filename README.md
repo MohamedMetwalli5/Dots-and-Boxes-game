@@ -1,7 +1,17 @@
 ![Language](https://img.shields.io/badge/language-C%20-red.svg)
 ![License](https://img.shields.io/badge/license-Apache_2.0-orange.svg)
 
-# Dots&Boxes-game
+
+
+          ██████╗  ██████╗ ████████╗███████╗   ██╗   ██████╗  ██████╗ ██╗  ██╗███████╗███████╗
+          ██╔══██╗██╔═══██╗╚══██╔══╝██╔════╝   ██║   ██╔══██╗██╔═══██╗╚██╗██╔╝██╔════╝██╔════╝
+          ██║  ██║██║   ██║   ██║   ███████╗████████╗██████╔╝██║   ██║ ╚███╔╝ █████╗  ███████╗
+          ██║  ██║██║   ██║   ██║   ╚════██║██╔═██╔═╝██╔══██╗██║   ██║ ██╔██╗ ██╔══╝  ╚════██║
+          ██████╔╝╚██████╔╝   ██║   ███████║██████║  ██████╔╝╚██████╔╝██╔╝ ██╗███████╗███████║
+          ╚═════╝  ╚═════╝    ╚═╝   ╚══════╝╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝
+                                                                                        
+
+
 ## About
 Dots and Boxes is a pencil-and-paper game for two players (also it can be played versus a computer). It was first published in the 19th century by French mathematician Édouard Lucas, who called it la pipopipette. It has gone by many other names, including the game of dots.
 
