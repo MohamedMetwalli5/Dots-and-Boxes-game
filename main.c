@@ -30,17 +30,8 @@ void human() {
     fflush(stdin);
     fclose(game);
 
-    // loop for choosing the file automatically
-
-    if (k == 1) {
-        k = 2;
-    }
-    else if (k == 2){
-        k = 3;
-    }
-    else if (k == 3) {
-        k = 1;
-    }
+    // choosing the file automatically
+    k++;
 
     // loading this value
 
@@ -945,7 +936,7 @@ void human() {
 
     // Loading Scores and Names of Winners from Rank File
 
-    rank = fopen("Rank.txt" , "r");
+    rank = fopen("Rank.txt", "r");
     for(int i=0; i<1000; i++) {
         fscanf(rank,"%s",topGamers[i].name);
         fscanf(rank,"%d",&topGamers[i].score);
